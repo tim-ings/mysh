@@ -1,0 +1,14 @@
+Debug
+execute.c
+execute.o
+globals.c
+globals.o
+makefile
+mysh
+mysh.c
+mysh.h
+mysh.o
+outfile
+parser.c
+parser.o
+Release
