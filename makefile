@@ -2,7 +2,7 @@
 # author = Tim Ings, 21716194
 
 # vars
-TARGET = mysh.out
+TARGET = mysh
 LIBS = -lm
 CC = gcc
 CFLAGS = -g -Wall -std=c99
