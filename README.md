@@ -1,14 +1,14 @@
-#CITS2002 Programming and Systems: Project 2: mysh
+# CITS2002 Programming and Systems: Project 2: mysh
 
 [![Build Status](https://travis-ci.com/Arwic/mysh.svg?token=FEDpPPLUV2B5ZSHguCpo&branch=master)](https://travis-ci.com/Arwic/mysh)
 
 http://teaching.csse.uwa.edu.au/units/CITS2002/projects/project2.php
 
-##Author(s): 
+## Author(s): 
 
 Tim Ings
 
-##Build:
+## Build:
 
 ##### Compile binary:
 
@@ -18,6 +18,6 @@ Tim Ings
   
 	$ make clean
 	
-##Run: 
+## Run: 
 
 	$ ./mysh
